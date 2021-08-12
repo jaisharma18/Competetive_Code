@@ -1,7 +1,7 @@
 import java.util.*;
 public class Tree_Top_View {
     public static void main(String args[]) throws Exception{
-        Scanner sc = new Scanner(System.in));
+        Scanner sc = new Scanner(System.in);
         String[] arr=sc.nextLine().split(" ");
         BinaryTree bt=new BinaryTree(arr);
         
